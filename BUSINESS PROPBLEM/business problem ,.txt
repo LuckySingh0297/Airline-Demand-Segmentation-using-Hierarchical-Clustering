@@ -1,0 +1,17 @@
+Business Problem:
+Airports and airline companies aim to improve operational efficiency 
+by understanding airline performance patterns.
+
+Objective:
+Segment airlines based on passenger traffic and flight frequency 
+to identify high-demand and low-demand airlines.
+
+Business Impact:
+This segmentation helps in better allocation of airport resources 
+such as gates, staff, and scheduling, leading to improved efficiency 
+and increased revenue.
+
+Success Criteria:
+- Business: Improve operational efficiency by 10–12%
+- ML: Achieve Silhouette Score > 0.5
+- Economic: Increase revenue by ~8% through better resource utilization
